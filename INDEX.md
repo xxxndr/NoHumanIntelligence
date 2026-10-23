@@ -2,9 +2,7 @@
 
 - [CLAUDE.local.md](CLAUDE.local.md): regole private
 - [idea.md](notes/idea.md): cos'è HelpSI
-- [roadmap.yaml](notes/roadmap.yaml): blocchi con ore stimate, ore reali e fatto
-- [roadmap-app.yaml](notes/roadmap-app.yaml): punti da studiare e da delegare
-- [aggiunte-da-studiare.yaml](notes/aggiunte-da-studiare.yaml): 8 argomenti da studiare non presenti nella roadmap originale
+- [roadmap-app.yaml](notes/roadmap-app.yaml): roadmap del codice dell'app, punti da studiare e da delegare, ore per blocco
 - [next.md](notes/next.md): id del prossimo punto da studiare (i punti sono in roadmap-app.yaml)
 - [auto-dubbio.md](notes/auto-dubbio.md): data dell'ultima volta che Claude ha dubitato di sé
 - [validita-app-mercato-normativa-junior-2027.md](notes/ricerche/validita-app-mercato-normativa-junior-2027.md): mercato, concorrenza, normativa, junior dev
