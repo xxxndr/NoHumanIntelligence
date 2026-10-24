@@ -4,6 +4,7 @@
 - [idea.md](notes/idea.md): cos'è HelpSI
 - [roadmap-app.yaml](notes/roadmap-app.yaml): roadmap del codice dell'app, punti da studiare e da delegare, ore per blocco
 - [next.md](notes/next.md): id del prossimo punto da studiare (i punti sono in roadmap-app.yaml)
+- [setup-da-fare.md](notes/setup-da-fare.md): comandi di setup che esegue Andrea e come lavoro sul codice
 - [auto-dubbio.md](notes/auto-dubbio.md): data dell'ultima volta che Claude ha dubitato di sé
 - [validita-app-mercato-normativa-junior-2027.md](notes/ricerche/validita-app-mercato-normativa-junior-2027.md): mercato, concorrenza, normativa, junior dev
 - [competenze-dev-2027-fonti-ufficiali.md](notes/ricerche/competenze-dev-2027-fonti-ufficiali.md): cosa deve saper fare un dev nel 2027

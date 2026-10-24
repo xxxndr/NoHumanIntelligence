@@ -9,4 +9,4 @@
 - non prendere `notes/` come unica fonte di verità, ogni 3 giorni metti in dubbio te stesso `notes/auto-dubbio`
 - tendenzialmente anche i file in `notes/` vanno scritti sintetici e minimal
 - quando sviluppi un blocco o un singolo punto scrivi un piano di intervento minimale in forma di lista, in forma brevissima (vince l'output style)
-- quando consigli comandi bash spiegali in ogni loro parte a fine messaggio, in forma brevissima (vince l'output style)
+- quando consigli comandi bash spiegali a fine messaggio, in forma brevissima (vince l'output style): scrivi il comando e sotto, in lista, ogni sua parte (programma, sottocomando, opzioni, argomenti)
