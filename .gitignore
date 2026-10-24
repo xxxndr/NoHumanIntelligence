@@ -1,1 +1,32 @@
 CLAUDE.local.md
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Ambienti virtuali
+.venv/
+
+# Segreti (l'esempio senza valori si committa)
+.env
+.env.*
+!.env.example
+
+# Test, coverage, linter
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+
+# Dati locali e log
+*.log
+pgdata/
+
+# Editor
+.vscode/
+.idea/
