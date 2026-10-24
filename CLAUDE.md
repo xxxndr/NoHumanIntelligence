@@ -1,5 +1,4 @@
 # REGOLE
-
 - rispetta output-styles e "outputStyle": "Minimal"
 - leggi [INDEX](INDEX.md)
 - per le ricerche web usa fonti ufficiali; se non esistono (es. mercato, assunzioni junior in Italia) usa altre fonti e dichiaralo
