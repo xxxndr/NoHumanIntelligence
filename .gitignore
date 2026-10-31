@@ -30,3 +30,6 @@ pgdata/
 # Editor
 .vscode/
 .idea/
+
+# Appunti
+notes/
